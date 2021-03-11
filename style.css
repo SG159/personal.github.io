@@ -19,14 +19,14 @@ hr{
   border-color: grey;
   width: 10%;
 }
-/*********************** CLASS SELECTOR ***************************/
+/*********************** CLASS SELECTOR ************************/
 .profile{
   background-color: #7FFFD4;
 }
 .edu{
   background-color: #5F9EA0;
 }
-/****************** ID SELECTOR ********************************/
+/****************** ID SELECTOR ***************************/
 #heading{
   color: #DC143C;
   text-shadow:3px 3px 2px black;
