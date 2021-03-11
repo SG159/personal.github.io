@@ -1,0 +1,34 @@
+/******************* TAG SELECTOR ***********/
+body{
+  background-color: #FFE4C4;
+}
+h1{ color: #DC143C; font-style: oblique;}
+/* Who{What:How} */
+h2{
+    color: #DC143C;
+}
+h3{
+  color: #DC143C;
+}
+img:hover{
+  background-color: yellow;
+}
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  width: 10%;
+}
+/*********************** CLASS SELECTOR ***************************/
+.profile{
+  background-color: #7FFFD4;
+}
+.edu{
+  background-color: #5F9EA0;
+}
+/****************** ID SELECTOR ********************************/
+#heading{
+  color: #DC143C;
+  text-shadow:3px 3px 2px black;
+  width: 1000px;
+}
